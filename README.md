@@ -6,9 +6,9 @@ Donanımın sınırlarında, yazılımın satır aralarında dolaşmayı severim
 ## Ne Üzerine Çalışırım?
 
 - ⚙️ Sistem tasarımı — sade, sürdürülebilir ve anlaşılır olması koşuluyla
-- 🔌 Donanım-yazılım arası geçiş bölgeleri
-- ⏱️ Zamanlama, kaynak yönetimi ve deterministik yapılar
-- 🧠 Algoritmik düşüncenin fiziksel dünyaya etkisi
+- 🔌 Donanım-yazılım arası geçiş bölgeleri ilgimi çekiyor
+- ⏱️ Zamanlama, kaynak yönetimi ve deterministik yapılarda kendimi geliştirmeyi hedefliyorum
+- 🧠 Algoritmik düşüncenin fiziksel dünyaya etkisi beni heycanlandırıyor
 
 ## Yaklaşımım
 
